@@ -33,7 +33,7 @@ Stock buying/selling works in a first in, first out (FIFO) method: When buying a
 ![gui_7](doc/img/bankPanel.PNG "gui6")
 
 
-### This is the “Charts Panel”. Here you can see each stock history compared to each other 
+### This is the “Charts Panel”. Here you can see each stock's price history compared to each other 
 
 ![gui_10](doc/img/compareStockPanel.PNG)
 
